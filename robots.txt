@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://www.joe-erlinger.com/sitemap-index.xml
